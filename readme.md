@@ -1,12 +1,12 @@
-hi ig.
+Welcome to the Beepbox Soundfont REFORMATTED!
 
-comming soon.
+This is a Remaster + Update of my old Beepbox SF2.
 
-Short FAQ
+FAQ
 
 Q: will you post this in Musical Artifacts.
 
-A: Proabbly not since Github has faster downloads.
+A: No.
 
 Q: Will you include *Insert Instrument Preset's Name*
 
@@ -14,7 +14,7 @@ A: All instrument presets will be sampled.
 
 Q: Can you add this sound i made in beepbox in the SF?
 
-A: Proabbly! We will proabbly make a sperate SF for custom made stuff as to not clutter the main SF.
+A: Make a Request in Issues. it will be added to a addon sf2 not to clutter the main sf2.
 
 Q: Is this a genesis/megadrive soundfont? since Beepbox uses FM?
 
